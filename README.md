@@ -1,22 +1,3 @@
-<!-- HEADER WAVE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,19,29&height=220&section=header&text=Welcome%20to%20My%20Digital%20Garden%20%E2%9C%A8&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E2%98%81%EF%B8%8F%20Software%20Engineer%20%E2%80%A2%20Backend%20Developer%20%E2%80%A2%20Creative%20Coder%20%F0%9F%8C%B8&descAlignY=58&descSize=18" width="100%" />
-</div>
-
-<!-- ANIMATED TYPING SVG -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=F472B6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Hi+there!+I'm+Rosie+%F0%9F%91%8B%F0%9F%8F%BB;Always+learning%2C+building%2C+and+romanticizing+tech+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- SOCIAL BADGES -->
-  <a href="mailto:ymidnightblaze58@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23DB2777.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<br />
 
 <!-- SPARKLE DIVIDER -->
 <p align="center">˚ ༘♡ ·˚ ₊˚ˑ༄ؘ ·˚ ─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ─── ˚ ༘♡ ·˚ ₊˚ˑ༄ؘ ·˚</p>
